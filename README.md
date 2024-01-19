@@ -9,7 +9,7 @@ I'm a Software Engineer currently studing at AltSchool Africa. I'm passionate ab
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning JavaScript and Reactjs.
+- 🌱 I’m currently learning JavaScript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me via [Email](mailto:adekoredeaderibigbe@gmail.com)
